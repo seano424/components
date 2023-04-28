@@ -1,5 +1,5 @@
 import { Inter } from 'next/font/google'
-import Accordion from '@/components/Accordion/Accordion'
+import Accordion from '@/components/Accordion'
 
 const inter = Inter({ subsets: ['latin'] })
 
